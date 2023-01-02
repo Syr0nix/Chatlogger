@@ -1,3 +1,4 @@
+-- Farewell Infortality.
 -- Version: 2.82
 -- Instances:
 local ChatGui = Instance.new("ScreenGui")
@@ -133,5 +134,4 @@ game.Players.ChildAdded:Connect(function(plr)
 			output(plr, msg)
 		end)
 	end
-end
 end)
